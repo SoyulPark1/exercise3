@@ -1,0 +1,11 @@
+h1{
+	color: black;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px white;
+}
+img{
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    margin 30px;
+}
